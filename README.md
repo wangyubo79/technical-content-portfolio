@@ -1,6 +1,6 @@
 # AI/LLM Technical Content Portfolio
 
-A curated portfolio of AI/LLM developer education work across Mandarin and English tutorials, workshops, blogs, videos, and code samples. The content focuses on helping developers move from first AI concepts to hands-on GenAI applications, agentic developer tools, and production-ready AI systems.
+A curated portfolio of AI/LLM developer education work across Mandarin and English tutorials, workshops, blogs, videos, hands-on labs, code samples, and technical talks. The content focuses on helping developers move from first AI concepts to practical GenAI workflows, prompt chaining, vector search, agentic developer tools, LLMOps, Kubernetes-based LLM deployment, inference optimization, observability, and production-ready AI systems.
 
 ## Featured Technical Content
 
@@ -39,21 +39,6 @@ A curated portfolio of AI/LLM developer education work across Mandarin and Engli
 - Bridges LLM training and serving with cloud-native deployment practices.
 - Connects AI infrastructure concepts to Kubernetes-based production systems.
 - Audience: platform engineers, ML infrastructure teams, and developers deploying AI workloads.
-
-## What This Demonstrates
-
-- Developer education across Mandarin and English tutorials, workshops, blogs, videos, and code samples.
-- Hands-on demos and sample applications for GenAI workflows, prompt chaining, vector search, and production AI systems.
-- Agentic developer tooling experience through AI coding assistant workshops, AI-native DevOps, and Rust/AI tooling content.
-- Production AI readiness across LLMOps, Kubernetes-based LLM deployment, inference optimization, vector search, and observability.
-- Mandarin-speaking developer community enablement through localized AI/LLM technical content.
-
-## Speaking & Community Impact
-
-- Created Mandarin and English developer-facing content across public workshops, official technical blogs, GitHub code, video talks, and third-party technical communities.
-- Helped developers understand practical AI/ML systems, including GenAI application development, vector search, prompt chaining, LLMOps, model inference, and cloud-native AI infrastructure.
-- Produced recoverable public examples across AWS official channels, GitHub, YouTube, TechBeat, and hands-on lab platforms.
-- Focused on translating complex AI systems into clear learning paths for developers moving from exploration to production.
 
 ## Complete Content Index
 
