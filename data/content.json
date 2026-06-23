@@ -1,0 +1,164 @@
+[
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Computer Vision with Transformers on Amazon SageMaker",
+    "type": "Video",
+    "link": "Computer Vision with Transformers on Amazon SageMaker",
+    "platform": "YouTube",
+    "language": "English",
+    "impact": "Turns a complex transformer architecture into a visual learning path for ML builders."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Computer Vision with Transformers on Amazon SageMaker",
+    "type": "Code",
+    "link": "https://github.com/wangyubo79/vision-transformer-sagemaker",
+    "platform": "GitHub",
+    "language": "English",
+    "impact": "Provides runnable sample code that developers can inspect, adapt, and extend."
+  },
+  {
+    "category": "AI Agents & Developer Tools",
+    "name": "Amazon Q Developer Agentic Coding Workshop",
+    "type": "Hands-on Lab",
+    "link": "https://events.amazoncloud.cn/labs/cloudlab-amazon-q-new-launch-reinvent2024",
+    "platform": "AWS",
+    "language": "Mandarin",
+    "impact": "Shows developers how AI coding assistants can fit into real development workflows."
+  },
+  {
+    "category": "LLM & Generative AI",
+    "name": "Rapid Generative AI Application Development with Amazon Bedrock",
+    "type": "Hands-on Lab",
+    "link": "https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune",
+    "platform": "AWS",
+    "language": "Mandarin",
+    "impact": "Helps developers move from model access to working GenAI application patterns."
+  },
+  {
+    "category": "LLM & Generative AI",
+    "name": "Foundation Model Prototyping with Amazon Bedrock",
+    "type": "Hands-on Lab",
+    "link": "https://events.amazoncloud.cn/labs/cloudlab-amazon-bedrock-first-experience",
+    "platform": "AWS",
+    "language": "Mandarin",
+    "impact": "Lowers the first-step barrier for Mandarin-speaking developers exploring foundation models."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Building a GenAI Vector Database on AWS Graviton",
+    "type": "Hands-on Lab",
+    "link": "https://events.amazoncloud.cn/labs/cloudlab-graviton-based-vector-database",
+    "platform": "AWS",
+    "language": "Mandarin",
+    "impact": "Teaches vector data infrastructure patterns for retrieval-augmented GenAI systems."
+  },
+  {
+    "category": "LLM & Generative AI",
+    "name": "Prompt Chaining Workflows with Amazon Bedrock and Step Functions",
+    "type": "Hands-on Lab",
+    "link": "https://events.amazoncloud.cn/labs/cloudlab-prompt-chaining-based-on-bedrock-and-stepfunction",
+    "platform": "AWS",
+    "language": "Mandarin",
+    "impact": "Demonstrates orchestration patterns for multi-step LLM workflows and agent-like systems."
+  },
+  {
+    "category": "LLM & Generative AI",
+    "name": "Data as the Differentiation Layer for Generative AI",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg4NjU5NDUxNg==&mid=2247560063&idx=1&sn=d3271cb925132335186df0bfdf28283b&chksm=ceeecd4412d8fa644aeaf19ea871432fc57ce8c0ba8c41f1eb902d38f6d6fdb47b1812838552",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Frames data quality and retrieval as practical differentiators for GenAI products."
+  },
+  {
+    "category": "AI Agents & Developer Tools",
+    "name": "AI-Native DevOps for Future-Ready Engineering",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg4NjU5NDUxNg==&mid=2247544014&idx=1&sn=15a1a844cab593cdcc9ce6413365baa1&chksm=ce0ec3a6f7f4744eaa1425d34db075bd3c04a05d39fed8f882149c8a16674eac13b1e2bddfb7",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Connects AI adoption to developer productivity, automation, and operational excellence."
+  },
+  {
+    "category": "LLM & Generative AI",
+    "name": "LLMOps for Production Generative AI Applications",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=MzkxMjM2MDIyNQ==&mid=2247641536&idx=1&sn=30cd5dac7b4184acd2d66ab537379d1b&chksm=c018925192af57c5c4da6bf18de46554fac7f7fe720af65f77ff17e8f2d9dba535d3358fa237",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Gives developers an operating model for taking GenAI applications beyond prototypes."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Training and Serving Large Language Models on Kubernetes",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg5Mzg1NDc2NQ==&mid=2247493909&idx=1&sn=4b7c5cf57e8bf3610c5fcdee0a430a52&chksm=c13fb4cd0a27f365ce3ef6a998bf6e74457a214de688a13f8f195ca120528ccb3ead32cf1a24",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Bridges LLM training and serving with cloud-native deployment practices."
+  },
+  {
+    "category": "AI Agents & Developer Tools",
+    "name": "Rust for Generative AI Systems and Developer Tooling",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg5Mzg1NDc2NQ==&mid=2247495246&idx=1&sn=95fb28395ad065dce11ac4880019312d&chksm=c12a727516f940c002281650487a3046391f6c3dbce12ce61e10c1f2b301bc5bce37a58c9a49",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Helps developers evaluate systems-language choices for AI tooling and infrastructure."
+  },
+  {
+    "category": "Cloud-Native AI Engineering",
+    "name": "High-Performance Java Workloads on AWS Cloud",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg5Mzg1NDc2NQ==&mid=2247485769&idx=1&sn=c5828a2801c09f4ab0a05ba3f12cc825&chksm=c1cf777e9e4629a266818f0a72062eb1b5a63ba8a8705ef9a130e9d8a40d565e3b02536b8002",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Helps backend developers connect cloud performance work to AI application foundations."
+  },
+  {
+    "category": "Cloud-Native AI Engineering",
+    "name": "The Java Ecosystem for Cloud-Native AI on AWS",
+    "type": "Blog",
+    "link": "https://mp.weixin.qq.com/s?__biz=Mzg5Mzg1NDc2NQ==&mid=2247485766&idx=1&sn=0066f36a3fcaa22be1a1a6200ade7458&chksm=c1fbe5c260cec970aebda4fde9abc27f96b1e5810c3301cd0dbf2dd7050016b7185dc2d7b803",
+    "platform": "AWS official WeChat",
+    "language": "Mandarin",
+    "impact": "Positions familiar Java tooling as part of the path to production AI systems."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Accelerated ML Inference on AWS Inferentia with AWS Neuron SDK",
+    "type": "Blog",
+    "link": "https://aws.amazon.com/cn/blogs/china/use-the-aws-neuron-sdk-for-machine-learning-inference-on-the-aws-inferentia-chip/",
+    "platform": "AWS Blog",
+    "language": "Mandarin",
+    "impact": "Guides developers toward cost- and performance-aware inference optimization."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Vector Similarity Search with k-NN on Amazon Elasticsearch Service",
+    "type": "Blog",
+    "link": "https://aws.amazon.com/cn/blogs/china/building-knn-similarity-search-using-amazon-elastic-search-service/",
+    "platform": "AWS Blog",
+    "language": "Mandarin",
+    "impact": "Explains similarity search foundations used in recommendation, retrieval, and AI search systems."
+  },
+  {
+    "category": "Cloud-Native AI Engineering",
+    "name": "UltraWarm Tiered Storage for Cloud-Scale AI and Log Analytics",
+    "type": "Blog",
+    "link": "https://aws.amazon.com/cn/blogs/china/hierarchical-storage-optimized-for-cloud-massive-log-analysis-ultrawarm-in-amazon-elastic-search-service/",
+    "platform": "AWS Blog",
+    "language": "Mandarin",
+    "impact": "Demonstrates scalable data-retention patterns for AI observability and log analytics."
+  },
+  {
+    "category": "Production AI & ML Infrastructure",
+    "name": "Building Production-Grade AI Applications on AWS ML Platforms",
+    "type": "Video",
+    "link": "https://www.techbeat.net/talk-info?id=423",
+    "platform": "TechBeat (3P)",
+    "language": "Mandarin",
+    "impact": "Shows how AI applications progress from demos to production-ready architecture."
+  }
+]
