@@ -33,7 +33,7 @@
     "link": "https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune",
     "platform": "AWS",
     "language": "Mandarin",
-    "impact": "Helps developers move from model access to working GenAI application patterns."
+    "impact": "Helps developers move from foundation model access, including models such as Claude and Llama, to working GenAI application patterns."
   },
   {
     "category": "LLM & Generative AI",
@@ -42,7 +42,7 @@
     "link": "https://events.amazoncloud.cn/labs/cloudlab-amazon-bedrock-first-experience",
     "platform": "AWS",
     "language": "Mandarin",
-    "impact": "Lowers the first-step barrier for Mandarin-speaking developers exploring foundation models."
+    "impact": "Lowers the first-step barrier for Mandarin-speaking developers exploring foundation models such as Claude and Llama through Amazon Bedrock."
   },
   {
     "category": "Production AI & ML Infrastructure",
