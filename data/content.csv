@@ -1,5 +1,5 @@
 category,name,type,link,platform,language,impact
-Production AI & ML Infrastructure,Computer Vision with Transformers on Amazon SageMaker,Video,Computer Vision with Transformers on Amazon SageMaker,YouTube,English,Turns a complex transformer architecture into a visual learning path for ML builders.
+Production AI & ML Infrastructure,Computer Vision with Transformers on Amazon SageMaker,Video,https://www.youtube.com/watch?v=UpFnghPlR_Y,YouTube,English,Turns a complex transformer architecture into a visual learning path for ML builders.
 Production AI & ML Infrastructure,Computer Vision with Transformers on Amazon SageMaker,Code,https://github.com/wangyubo79/vision-transformer-sagemaker,GitHub,English,"Provides runnable sample code that developers can inspect, adapt, and extend."
 AI Agents & Developer Tools,Amazon Q Developer Agentic Coding Workshop,Hands-on Lab,https://events.amazoncloud.cn/labs/cloudlab-amazon-q-new-launch-reinvent2024,AWS,Mandarin,Shows developers how AI coding assistants can fit into real development workflows.
 LLM & Generative AI,Rapid Generative AI Application Development with Amazon Bedrock,Hands-on Lab,https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune,AWS,Mandarin,Helps developers move from model access to working GenAI application patterns.
