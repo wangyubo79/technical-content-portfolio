@@ -14,7 +14,8 @@ A curated portfolio of AI/LLM developer education work across Mandarin and Engli
 ### 2. Rapid Generative AI Application Development with Amazon Bedrock
 
 - Format: [hands-on lab](https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune)
-- Guides developers from model access to a working GenAI application pattern.
+- Guides developers from foundation model access to a working GenAI application pattern.
+- Highlights how builders can use Amazon Bedrock with foundation models such as Anthropic Claude and Meta Llama.
 - Focuses on practical onboarding, API usage, and application development flow.
 - Audience: cloud developers and AI builders starting with GenAI applications.
 
@@ -60,8 +61,8 @@ A curated portfolio of AI/LLM developer education work across Mandarin and Engli
 
 | Content | Type | Platform | Language | Impact |
 | --- | --- | --- | --- | --- |
-| [Rapid Generative AI Application Development with Amazon Bedrock](https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune) | Hands-on Lab | AWS | Mandarin | Helps developers move from model access to working GenAI application patterns. |
-| [Foundation Model Prototyping with Amazon Bedrock](https://events.amazoncloud.cn/labs/cloudlab-amazon-bedrock-first-experience) | Hands-on Lab | AWS | Mandarin | Lowers the first-step barrier for Mandarin-speaking developers exploring foundation models. |
+| [Rapid Generative AI Application Development with Amazon Bedrock](https://events.amazoncloud.cn/labs/cloudlab-cloud9-call-bedrock-api-and-model-fine-tune) | Hands-on Lab | AWS | Mandarin | Helps developers move from foundation model access, including models such as Claude and Llama, to working GenAI application patterns. |
+| [Foundation Model Prototyping with Amazon Bedrock](https://events.amazoncloud.cn/labs/cloudlab-amazon-bedrock-first-experience) | Hands-on Lab | AWS | Mandarin | Lowers the first-step barrier for Mandarin-speaking developers exploring foundation models such as Claude and Llama through Amazon Bedrock. |
 | [Prompt Chaining Workflows with Amazon Bedrock and Step Functions](https://events.amazoncloud.cn/labs/cloudlab-prompt-chaining-based-on-bedrock-and-stepfunction) | Hands-on Lab | AWS | Mandarin | Demonstrates orchestration patterns for multi-step LLM workflows and agent-like systems. |
 | [Data as the Differentiation Layer for Generative AI](https://mp.weixin.qq.com/s?__biz=Mzg4NjU5NDUxNg==&mid=2247560063&idx=1&sn=d3271cb925132335186df0bfdf28283b&chksm=ceeecd4412d8fa644aeaf19ea871432fc57ce8c0ba8c41f1eb902d38f6d6fdb47b1812838552) | Blog | AWS official WeChat | Mandarin | Frames data quality and retrieval as practical differentiators for GenAI products. |
 | [LLMOps for Production Generative AI Applications](https://mp.weixin.qq.com/s?__biz=MzkxMjM2MDIyNQ==&mid=2247641536&idx=1&sn=30cd5dac7b4184acd2d66ab537379d1b&chksm=c018925192af57c5c4da6bf18de46554fac7f7fe720af65f77ff17e8f2d9dba535d3358fa237) | Blog | AWS official WeChat | Mandarin | Gives developers an operating model for taking GenAI applications beyond prototypes. |
