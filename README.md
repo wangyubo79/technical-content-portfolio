@@ -40,6 +40,12 @@ A curated portfolio of AI/LLM developer education work across Mandarin and Engli
 - Connects AI infrastructure concepts to Kubernetes-based production systems.
 - Audience: platform engineers, ML infrastructure teams, and developers deploying AI workloads.
 
+### 6. Thoughts on Developer Relations Evolution
+
+- Format: [technical blog](https://wangyubo79.github.io/)
+- Captures personal thinking on how Developer Relations evolves as AI coding changes developer audiences, workflows, trust, and adoption.
+- Audience: DevRel teams, developer advocates, AI platform teams, AI coding tool builders, and AI-augmented developers.
+
 ## Complete Content Index
 
 ### LLM & Generative AI
